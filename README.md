@@ -14,6 +14,7 @@
 
 | Project | EN | PT |
 |---|---|---|
+| [sfmc-custom-activity-starter](https://github.com/ThiagoEliasSSP/sfmc-custom-activity-starter) | Journey Builder custom activity starter: JWT, Postmonger UI, scaffold command and snippets | Starter de custom activity do Journey Builder: JWT, tela com Postmonger, gerador e snippets |
 | [api-integration-trigger-sfmc](https://github.com/ThiagoEliasSSP/api-integration-trigger-sfmc) | Web form → SFMC journey, with a Data Extension fallback | Formulário → jornada no SFMC, com fallback em Data Extension |
 | [Plusle](https://github.com/ThiagoEliasSSP/Plusle) | Complementary hours system (team project) | Sistema de horas complementares (projeto em equipe) |
 | [Api-crud-vanilla-javascript](https://github.com/ThiagoEliasSSP/Api-crud-vanilla-javascript) | CRUD API with Node.js native modules | API CRUD com os módulos nativos do Node.js |
